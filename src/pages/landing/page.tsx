@@ -202,7 +202,6 @@ export default function LandingPage() {
               href="https://readdy.ai/?origin=logo" 
               className="text-gray-400 hover:text-white text-sm transition-colors mt-4 md:mt-0 cursor-pointer"
             >
-              Powered by Readdy
             </a>
           </div>
         </div>
